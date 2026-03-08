@@ -34,15 +34,4 @@ javac Main.java
 java Main
 ```
 
-## 👨‍💻 Auteur
-Ton Nom — 2026
 
-## 📅 Dans le cadre de
-Mini-Projet — Interfaces Java POO
-```
-
----
-
-## ⚙️ Topics à ajouter sur GitHub :
-```
-java  poo  interfaces  bibliotheque  mini-projet  oop  java-poo
